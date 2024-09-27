@@ -26,3 +26,4 @@ src/rapidjson/RapidJSONConfig.cmake.in
 src/rapidjson/docker
 src/rapidjson/package.json
 src/rapidjson/travis-doxygen.sh
+^\.github$

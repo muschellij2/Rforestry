@@ -1,5 +1,7 @@
 ## Rforestry: Random Forests, Linear Trees, and Gradient Boosting for Inference and Interpretability
-
+<!-- badges: start -->
+[![R-CMD-check](https://github.com/muschellij2/Rforestry/actions/workflows/R-CMD-check.yaml/badge.svg)](https://github.com/muschellij2/Rforestry/actions/workflows/R-CMD-check.yaml)
+<!-- badges: end -->
 Sören Künzel, Theo Saarinen, Simon Walter, Edward Liu, Sam Antonyan, Allen Tang, Jasjeet Sekhon
 
 
